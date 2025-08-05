@@ -1,0 +1,16 @@
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# Uploaded Files & Temporary Data
+uploads/
+
+# Model Files
+*.pkl
+
+# Python virtual environment config
+pyvenv.cfg
