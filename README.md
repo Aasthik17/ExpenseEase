@@ -17,3 +17,6 @@ ExpenseEase is a smart and intuitive mobile app designed to simplify personal ex
   | **TesseractOCR (Python)**   | Extracting text from bills & receipts |
   | **Node.js (Express.js)**	  | Backend API for managing expenses     |
   | **Python (TesseractOCR)**	  | OCR Service for bill/receipt scanning |
+
+## 🗃️ Database Schema
+<img width="687" height="279" alt="expenseease_erd" src="https://github.com/user-attachments/assets/c633ccc7-4e17-4c59-a0d8-149cc471633f" />
