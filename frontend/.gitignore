@@ -1,0 +1,86 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+.env
+.env.local
+
+# IntelliJ/Android Studio related
+*.iml
+*.ipr
+*.iws
+.idea/
+.gradle/
+local.properties
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+/frontend/build/
+/frontend/android/build/  # Explicitly exclude Android build dir
+/frontend/ios/Pods/      # iOS CocoaPods
+
+# Android specific
+/frontend/android/app/build/
+/frontend/android/.gradle/
+/frontend/android/app/src/main/java/com/google_mikit_smart_reply/BuildConfig.java
+/frontend/android/app/generated/
+
+# iOS specific
+/frontend/ios/.symlinks/
+/frontend/ios/Flutter/Flutter.podspec
+/frontend/ios/Flutter/Flutter.framework/
+/frontend/ios/Flutter/App.framework/
+/frontend/ios/Flutter/Debug.xcconfig
+/frontend/ios/Flutter/Release.xcconfig
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# Firebase & Google Services
+**/google-services.json
+**/GoogleService-Info.plist
+
+# macOS
+**/.DS_Store
+
+# Windows
+Thumbs.db
+
+# Coverage
+coverage/
+
+# Test outputs
+/test-reports/
+/performance-measurement.json
+
+# VS Code (uncomment if needed)
+#.vscode/
