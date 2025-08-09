@@ -1,4 +1,3 @@
-# ExpenseEase
 <h1 align="center">ExpenseEase</h1>
 <p align="center"><i>Simplify Spending, Empower Your Financial Future</i></p>
 
