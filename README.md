@@ -27,7 +27,7 @@
 </p>
 
 
-ExpenseEase is a smart and intuitive mobile app designed to simplify personal expense management. Leveraging OCR technology, ExpenseEase allows users to track their expenses through bill scanning, manual entry, and gain insightful financial summaries — all in one seamless platform.
+ExpenseEase is a smart and intuitive mobile app designed to simplify personal expense management. Leveraging OCR technology, ExpenseEase allows users to track their expenses through bill scanning, manual entry, and gain insightful financial summaries, all in one seamless platform.
 
 ## ✨ Features
 - 📸 Bill Scanning with OCR (TesseractOCR-based): Automatically extract data from printed and handwritten bills.
